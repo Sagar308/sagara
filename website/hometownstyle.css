@@ -1,0 +1,48 @@
+#p1{
+  font-size: 30px;
+  font-style: italic;
+  text-align: center;
+text-decoration: underline;
+background-color: #FAEBD7;
+
+}
+
+#img1ofhometown{
+  text-align: center;
+  background-color: #FAEBD7;
+
+}
+#paragraph1ofhometown{
+
+font-size: 20px;
+font-style: oblique;
+background-color: #FAEBD7;
+
+}
+main{
+//  background-color: #FAEBD7;
+
+}
+#cp1{
+  float: left;
+}
+#cppara{
+  float: right;
+  font-size: 20px;
+  font-style: oblique;
+  background-color: #FAEBD7;
+}
+#cgpara{
+  font-size: 20px;
+  font-style: oblique;
+  background-color: #FAEBD7;
+
+}
+#cgpic2{
+  text-align: center;
+}
+#cgpara2{
+  font-size: 20px;
+  font-style: oblique;
+  background-color: #FAEBD7;
+}
